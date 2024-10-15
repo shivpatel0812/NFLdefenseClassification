@@ -65,6 +65,4 @@ This project demonstrates the process of downloading NFL defensive formation ima
    - Use Streamlit to create a web-based interface for users to upload images and view predictions.
    - Use Ngrok to make the Streamlit app public.
 
-## Contributing
 
-Contributions are welcome! Please follow the established guidelines and submit a pull request for review.
